@@ -1,93 +1,100 @@
-Sweet Potato
-============
+# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+<p align='center'>
+<a href="#"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
--------------------     ----------------------------
-MyAddress                           email@example.com
-MyTown 1000                           @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+Hey there 👋,
 
-Education
----------
+I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
+ 
+ ---
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="400" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+</p>
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+### My Digital Garden 🌱
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
 
-    *Minor: Awesomeology*
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-Experience
-----------
+[Latest Post 👉](https://waylonwalker.com/latest)
 
-**Your Most Recent Work Experience:**
+<details>
+ <summary><strong>other favorite posts</strong></summary>
+ <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
+ <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
+ 
+</details>
+💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _237_
 
-* First item
+<a href='https://twitter.com/csfinch'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1256139099813171200/BVCrHTv8_normal.jpg' />
+</a>
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+<a href='https://twitter.com/csfinch'>
+    csfinch
+</a>
 
-**That Other Job You Had**
+Serial Entrepreneur who loves building #startups
+Love working in  #nodejs #JavaScript on new products for a better future
+Connect with me on LI https://t.co/UMhAREyKO8
 
-Also with a short description.
+<h2></h2><a href='https://twitter.com/NoahKahenga'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1279369050615951360/sD8W-fC5_normal.jpg' />
+</a>
 
-Technical Experience
---------------------
+<a href='https://twitter.com/NoahKahenga'>
+    Jean-Luc Noah | Devs
+</a>
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Développeur web et désigner. Mon Instagram  : https://t.co/OG059zXD91 🌎Cliquez ici pour accéder à à ma chaîne 👇
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+<h2></h2><a href='https://twitter.com/brianmmdev'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1250997828379344899/GO6L94Yr_normal.jpg' />
+</a>
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+<a href='https://twitter.com/brianmmdev'>
+    Brian Morrison II 👨‍💻 #BlackLivesMatter
+</a>
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Software Engineer & Live Coder • YouTube: https://t.co/Z6ugmIkzRL • Discord: https://t.co/KlBCDY1rem • FB Gaming: https://t.co/sOJTKVIsxN
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+<h2></h2><a href='https://twitter.com/Delta2315'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1166656388291907584/P-N8_Hbq_normal.png' />
+</a>
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+<a href='https://twitter.com/Delta2315'>
+    Swastik Baranwal
+</a>
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+A noob
+C | Modern C++ | Python | Go | V @v_language Contributor. 
 
-[ref]: https://github.com/githubuser/superlongprojectname
+https://t.co/joOO2b4z88: https://t.co/9Yit97TiV2
+GitHub: https://t.co/GrVxzpgPZh
+Deviant Art: https://t.co/ZlF9PsNZR5
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+<h2></h2><a href='https://twitter.com/SleekWebsiteLLC'>
+  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1253441454405562369/WNGORBXd_normal.jpg' />
+</a>
 
-* Human Languages:
+<a href='https://twitter.com/SleekWebsiteLLC'>
+    Daniel @ Sleek Websites
+</a>
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+Hi, I'm Daniel - a freelance web developer. I am the owner of Sleek Websites. I tweet about computer programming, business, and productivity.
 
-* Random tidbit
+<h2></h2>
 
-* Other sort of impressive-sounding thing you did
+<p align='center'>
+<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
+ <p/>
